@@ -1,0 +1,22 @@
+.team-text{
+    text-align: justify;
+}
+
+.credit {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 0.7rem;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: center;
+    font-style: italic;
+}
+
+.heading-gp{
+    color: #f05f40;
+}
+
+.title-gp{
+    font-family: 'Oswald', sans-seri !important;
+    /* font-family: 'Tangerine', serif !important; */
+}
