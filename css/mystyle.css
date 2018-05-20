@@ -20,3 +20,7 @@
     font-family: 'Oswald', sans-seri !important;
     /* font-family: 'Tangerine', serif !important; */
 }
+
+.content-img{
+    max-width: 100%;
+}
